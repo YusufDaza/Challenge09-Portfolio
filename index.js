@@ -61,13 +61,17 @@ function writeToFile(fileName, data) {
         }
     });
 }
-
+function renderLicenseBadge(license) {
+    if(license==="MIT"){
+        return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+    }
+}
 // Function to initialize app
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const readmeContent = `
 # ${answers.title}
-
+${renderLicenseBadge(answers.license)}
 ## Description
 
 ${answers.description}
