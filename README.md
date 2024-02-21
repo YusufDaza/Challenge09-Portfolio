@@ -1,6 +1,6 @@
 
-# Challenge09
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Challenge 09
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Description
 
 homework of the week
@@ -16,7 +16,7 @@ homework of the week
 
 ## Installation
 
-npm i
+nmp i
 
 ## Usage
 
@@ -24,7 +24,7 @@ node index
 
 ## Contributing
 
-Myself
+myself
 
 ## Tests
 
@@ -32,7 +32,7 @@ run node index
 
 ## License
 
-This project is licensed under the Apache 2.0 license.
+This project is licensed under the None license.
 
 ## Questions
 
