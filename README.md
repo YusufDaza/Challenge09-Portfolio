@@ -1,6 +1,6 @@
 
-# Challenge 09
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+# Challenge09
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
 homework of the week
@@ -16,7 +16,7 @@ homework of the week
 
 ## Installation
 
-nmp i
+npm i
 
 ## Usage
 
@@ -32,7 +32,7 @@ run node index
 
 ## License
 
-This project is licensed under the None license.
+This project is licensed under the MIT license.
 
 ## Questions
 
